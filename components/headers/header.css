@@ -1,0 +1,78 @@
+* {
+  font-family: "Barlow", sans-serif;
+}
+
+.header {
+  background: url("/img/logo.png") no-repeat center center/cover !important;
+  height: 50vh;
+}
+
+.headerTop {
+  margin-bottom: auto !important;
+}
+
+.searchBoxpy {
+  padding-top: 0.18rem;
+  padding-bottom: 0.18rem;
+  border-radius: 8%;
+}
+
+.headerCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+  text-align: center;
+}
+
+.toggle {
+  color: white !important;
+
+  margin-top: -0.07rem !important;
+  outline: none !important;
+  border-color: transparent !important;
+  border-radius: 50px !important;
+  padding: 0 0 !important;
+}
+
+.CreateCategory {
+  background: rgb(3, 135, 223);
+  border-radius: 50px;
+  padding: 1.2rem;
+  margin-top: 1rem;
+}
+
+.font-1 {
+  font-size: 2rem;
+}
+
+.font-2 {
+  font-size: 1.6rem;
+}
+
+.license {
+  background: url("/img/licenses.jpg") no-repeat center center/cover !important;
+  height: 60vh;
+}
+
+.im {
+  max-width: 50%;
+  height: auto;
+}
+.footer {
+  margin-top: 80vh;
+}
+
+.carousel {
+  height: 250px;
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+.carousel-n {
+  height: 200px;
+  width: 200px;
+  border-radius: 4000px;
+}
