@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    API: `https://designo-api.herokuapp.com`,
+    API: `https://designo-backend.herokuapp.com`,
   },
   distDir: "build",
 }
